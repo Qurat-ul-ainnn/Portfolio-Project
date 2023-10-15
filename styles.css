@@ -95,7 +95,7 @@
   margin-top: 130vh;
   display: grid;
   justify-content: center;
-  width: 100%;
+  width: 120%;
   background-color: #dfe1e6;
 }
 .work-cards {
@@ -108,15 +108,20 @@
   background: var(--neutrals-n-0, #fff);
   padding: 2rem;
   margin: 2rem;
-  width: 75vw;
+  width: 94vw;
+  height: 75vh;
 }
 /* .snapPortfolio {
   height: 28rem;
   width: 34rem;
 } */
 .snap {
-  width: 43rem;
-  height: 30rem;
+  width: 25rem;
+  height: 26rem;
+}
+.snap1 {
+  width: 27rem;
+  height: 26rem;
 }
 /* .snapPortfolio1 {
   height: 28rem;
@@ -138,7 +143,7 @@
   align-items: flex-start;
   gap: 1.5rem;
   height: 28rem;
-  width: 26rem;
+  width: 15rem;
 }
 .projectTitle {
   width: 31rem;
