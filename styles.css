@@ -38,7 +38,6 @@
 }
 
 .container {
-  height: 100vh;
   width: 70rem;
   margin-left: 5%;
   position: absolute;
@@ -95,7 +94,7 @@
   margin-top: 130vh;
   display: grid;
   justify-content: center;
-  width: 120%;
+  /* width: 120%; */
   background-color: #dfe1e6;
 }
 .work-cards {
@@ -108,7 +107,7 @@
   background: var(--neutrals-n-0, #fff);
   padding: 2rem;
   margin: 2rem;
-  width: 94vw;
+  /* width: 94vw; */
 }
 /* .snapPortfolio {
   height: 28rem;
