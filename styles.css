@@ -582,6 +582,11 @@ form textarea {
     width: 20rem;
     height: 15rem;
   }
+  .snap1 {
+    width: 20rem;
+    height: 15rem;
+  }
+
   .left-block {
     display: flex;
     flex-direction: column;
@@ -598,7 +603,7 @@ form textarea {
     align-items: flex-start;
     gap: 1.5rem;
     height: 70vh;
-    width: 295px;
+    width: 270px;
   }
   .projectTitle {
     width: 31rem;
