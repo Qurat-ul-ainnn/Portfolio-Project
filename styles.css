@@ -109,7 +109,6 @@
   padding: 2rem;
   margin: 2rem;
   width: 94vw;
-  height: 75vh;
 }
 /* .snapPortfolio {
   height: 28rem;
@@ -121,7 +120,7 @@
 }
 .snap1 {
   width: 27rem;
-  height: 26rem;
+  height: 24rem;
 }
 /* .snapPortfolio1 {
   height: 28rem;
@@ -143,7 +142,7 @@
   align-items: flex-start;
   gap: 1.5rem;
   height: 28rem;
-  width: 15rem;
+  width: 17rem;
 }
 .projectTitle {
   width: 31rem;
