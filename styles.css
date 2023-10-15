@@ -556,6 +556,7 @@
     justify-content: center;
     width: 375px;
     background-color: #dfe1e6;
+    gap: 4rem;
   }
   .work-cards {
     display: flex;
@@ -564,7 +565,7 @@
     justify-content: center;
     gap: 2rem;
     width: 327px;
-    height: 150vh;
+    height: 129vh;
     background: #fff;
     border: 1px solid #dfe1e6;
     border-radius: 16px;
@@ -599,7 +600,7 @@
     padding: 0;
     gap: 2px;
     width: 295px;
-    height: 288px;
+    height: 350px;
   }
   .left-block1 {
     display: flex;
@@ -608,7 +609,7 @@
     align-items: flex-start;
     gap: 1.5rem;
     height: 70vh;
-    width: 270px;
+    width: 274px;
   }
   .projectTitle {
     width: 31rem;
@@ -721,7 +722,7 @@
     border-top: 2px solid var(--neutrals-n-40, #dfe1e6);
     background: var(--neutrals-n-0, #fff);
     width: 375px;
-    height: 250vh;
+    /* height: 250vh; */
     margin-top: 10rem;
   }
   .headline1 {
